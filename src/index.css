@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* optional: smooth font rendering */
+html, body, #root { height: 100%; }
